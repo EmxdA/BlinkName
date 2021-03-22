@@ -1,10 +1,8 @@
 
+int led1 = D7;
 
 void setup() {
-
-
   pinMode(led1, OUTPUT);
-
 }
 
 void loop() {
